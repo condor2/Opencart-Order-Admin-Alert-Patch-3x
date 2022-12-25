@@ -1,6 +1,6 @@
 # Same Admin Order Alert Design like Customers
 
-## Instruction
+## Instructions
 
  - Make back-up before for these files:<br>
     -catalog/controller/mail/order.php<br>
